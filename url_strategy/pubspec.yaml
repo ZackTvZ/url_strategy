@@ -5,7 +5,7 @@ version: 0.2.1
 homepage: https://github.com/simpleclub/url_strategy/tree/main/url_strategy
 
 environment:
-  sdk: '>=2.12.0-259.9.beta <3.0.0'
+  sdk: ">=2.18.0 <3.0.0"
   flutter: '>=1.20.0'
 
 dependencies:
